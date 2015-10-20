@@ -1,0 +1,26 @@
+{
+  "name": "verdijs-pli",
+  "version": "0.0.0",
+  "description": "VerdiJS Project Layout Instance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verdijs/verdijs-pli.git"
+  },
+  "keywords": [
+    "project",
+    "layout",
+    "instance",
+    "standard",
+    "verdijs"
+  ],
+  "author": "Ole Ersoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/verdijs/verdijs-pli/issues"
+  },
+  "homepage": "https://github.com/verdijs/verdijs-pli#readme"
+}
