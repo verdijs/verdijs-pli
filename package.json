@@ -1,9 +1,10 @@
 {
   "name": "verdijs-pli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "VerdiJS Project Layout Instance",
   "main": "index.js",
   "scripts": {
+    "update": "ncu -a && npm i",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/verdijs/verdijs-pli/issues"
   },
-  "homepage": "https://github.com/verdijs/verdijs-pli#readme"
+  "homepage": "https://github.com/verdijs/verdijs-pli#readme",
+  "dependencies": {
+    "glob-patterns": "0.0.1"
+  }
 }
